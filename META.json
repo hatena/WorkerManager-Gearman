@@ -62,7 +62,7 @@
          "web" : "https://github.com/hatena/WorkerManager-Gearman"
       }
    },
-   "version" : "0.100",
+   "version" : "0.1000",
    "x_authority" : "cpan:HATENA",
    "x_contributors" : [
       "Takumi Akiyama <t.akiym@gmail.com>"
